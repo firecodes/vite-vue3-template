@@ -1,1 +1,1 @@
-const e="/vite-vue3-template/assets/logo.1ea765ca.png",t="/vite-vue3-template/assets/account-logo.0a6f895e.png",o=Object.freeze({title:"NaiveUiAdmin",logo:e,loginImage:t,loginDesc:"Naive Ui Admin\u4E2D\u540E\u53F0\u524D\u7AEF/\u8BBE\u8BA1\u89E3\u51B3\u65B9\u6848"});export{o as w};
+const e=""+new URL("logo.1ea765ca.png",import.meta.url).href,o=""+new URL("account-logo.0a6f895e.png",import.meta.url).href,u=Object.freeze({title:"NaiveUiAdmin",logo:e,loginImage:o,loginDesc:"Naive Ui Admin\u4E2D\u540E\u53F0\u524D\u7AEF/\u8BBE\u8BA1\u89E3\u51B3\u65B9\u6848"});export{u as w};
